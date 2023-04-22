@@ -1,0 +1,14 @@
+  _   _                _____            _    _       
+ | | | | __ ___  _____|  ___|   _ _ __ | | _(_)_ __  
+ | |_| |/ _` \ \/ / _ \ |_ | | | | '_ \| |/ / | '_ \ 
+ |  _  | (_| |>  <  __/  _|| |_| | | | |   <| | | | |
+ |_| |_|\__,_/_/\_\___|_|   \__,_|_| |_|_|\_\_|_| |_|
+                                                     
+                                                
+Thanks for using HaxeFunkin
+
+Before running main.py open HFDownloader.bat it will download recommended files for HaxeFunkin
+
+If you are confused on what to do i will make a video on it or maybe on the discord server
+
+No sus script in this there are no IP Grabbers, Token Grabbers etc. because we dont want ur stuff if you dont trust us look though the code
