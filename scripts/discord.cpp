@@ -15,9 +15,6 @@ int main()
     presence.largeImageText = "My Game";
 
     Discord_UpdatePresence(&presence);
-    
-    // Your game loop or other application code goes here
-
     Discord_Shutdown();
     return 0;
 }
